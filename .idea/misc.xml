@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/FP-00-LambdaSyntax/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-03-Map/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-01-Intro/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-03-Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-03-Reduce/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-06-FlatMap/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-01-Comparator-Function/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-03-Optional-Operations/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-01-Built-In-FI-Consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-01-Built-In-FI-Function/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-01-Built-In-FI-Supplier/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-01-Built-In-FI-Predicate/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-01-Built-In-FI-BiFunction/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-06-Design-Patterns-Builder/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-06-Design-Patterns-Command/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-06-Design-Patterns-Factory/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-06-Design-Patterns-Iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-06-Design-Patterns-Strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-00-Imperative-vs-Declarative/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-01-Built-In-FI-UnaryOperator/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-06-Design-Patterns-Decorator/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-01-Built-In-FI-BinaryOperator/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-05-Functional-Design-Closures/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-05-Functional-Design-Currying/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-04-Numeric-Streams/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-05-Bounded-Streams/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-02-Strream-Pipeline/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-03-Streams-are-Lazy/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-05-Infinite-Streams/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-07-Parallel-Streams/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-09-Collectors-03-Custom-Collectors/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-05-Functional-Design-Lazy-Evaluation/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-06-Design-Patterns-Fluent-Interfaces/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-08-Spliterator-02-Custom-Spliterator/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-10-Collections-Functional-Way-02-Set/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-10-Collections-Functional-Way-03-Map/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-04-Numeric-Streams-Methods/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-09-Collectors-02-Cascading-Collectors/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-10-Collections-Functional-Way-01-List/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-03-Optional-Creating-Retrieveing-Value/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-05-Functional-Design-Functions-Chaining/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-07-Parallelism-Fork-Join-Pool/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-11-Data-Structures-Functional-Way-04-Map/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-02-Method-Reference-Constructor-Reference/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-11-Data-Structures-Functional-Way-01-List/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-11-Data-Structures-Functional-Way-03-Tree/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-11-Data-Structures-Functional-Way-02-Queue/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-05-Funcitonal-Design-Tail-Call-Optimization/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-05-Functional-Design-Functional-Composition/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-08-Spliterator-01-Spliteraor-Characteristics/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-04-Functional-Concepts-Higher-Order-Functions/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-07-Streams-07-Stateless-vs-Stateful-Operations/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-04-Functional-Concepts-Referencial-Transparency/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-04-Functional-Concepts-Pure-Functions-No-Side-Effects/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-09-Collectors-01-Terminal-Analogous-Collectors-01-toList-toSet-Unmodifiable/pom.xml" />
+        <option value="$PROJECT_DIR$/FP-09-Collectors-01-Terminal-Analogous-Collectors-02-TreeSet-Map-PartitionBy-GroupBy-Joining/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11.0.5" project-jdk-type="JavaSDK" />
+</project>
