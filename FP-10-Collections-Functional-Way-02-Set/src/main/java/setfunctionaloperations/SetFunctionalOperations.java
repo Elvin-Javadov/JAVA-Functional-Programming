@@ -10,6 +10,18 @@ public class SetFunctionalOperations {
 
         Set<Integer> setOfNums = Set.of(3,45,7,32,78,11,-5,111);
 
+/*  // %d it indicates the argument data type, such as %d for integer, %s for string,
+%S or %s: Specifies String
+%X or %x: Specifies hexadecimal integer
+                %o: Specifies Octal integer
+                %d: Specifies Decimal integer
+                %c: Specifies character
+%T or %t: Specifies Time and date
+%n: Inserts newline character
+                %B or %b: Specifies Boolean
+%A or %a: Specifies floating point hexadecimal
+%f: Specifies Decimal floating point
+*/
         // Traversal
         setOfNums.forEach(num -> System.out.printf("%d ", num));
 

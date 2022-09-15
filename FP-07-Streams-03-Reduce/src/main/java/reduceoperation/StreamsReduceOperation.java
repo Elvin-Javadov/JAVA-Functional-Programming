@@ -25,7 +25,13 @@ public class StreamsReduceOperation {
                 // ((17,20) -> 17 + 20) = 37
         System.out.println(sum);
 
-
+        Integer multi = Stream.of(1,5,11,20)
+                .reduce(1,(a,b) -> a * b);
+        // 0, ((0,1) -> 0 + 1) = 1
+        // ((1,5) -> 1 + 5) = 6
+        // ((6,11) -> 6 + 11) = 17
+        // ((17,20) -> 17 + 20) = 37
+        System.out.println(multi);
     }
 
 }

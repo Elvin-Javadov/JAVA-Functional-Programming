@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -15,20 +16,21 @@
         <module name="FP-07-Streams-03-Map" />
         <module name="FP-07-Streams-03-Reduce" />
         <module name="Fp-09-Collectors-Terminal-Analogue-Collectors" />
-        <module name="FP-01-Comparator-composition.Function" />
         <module name="FP-00-Lambda-Syntax (1)" />
+        <module name="FP-01-Comparator-composition.Function" />
         <module name="FP-01-Built-In-FI-Supplier" />
         <module name="FP-05-Functional-API-Design-Closures" />
         <module name="FP-02-Method-Reference" />
         <module name="FP-08-Spliterator-02-Custom-Spliterator" />
-        <module name="FP-07-Streams-07-Fork-Join-Pool" />
-        <module name="FP-07-Streams-Intro" />
         <module name="FP-05-Functional-API-Design-Functional-Composition" />
+        <module name="FP-07-Streams-Intro" />
+        <module name="FP-07-Streams-07-Fork-Join-Pool" />
+        <module name="Practice Java" />
         <module name="FP-06-Design-Patterns-Iterator" />
         <module name="FP-05-Functional-API-Design-Lazy-Evaluation" />
         <module name="FP-09-Collectors-03-Custom-Collectors" />
-        <module name="FP-06-Design-Patterns-Strategy" />
         <module name="FP-01-Built-In-FI-BiFunction" />
+        <module name="FP-06-Design-Patterns-Strategy" />
         <module name="FP-01-Functional-Concepts-Pure-Functions-No-Side-Effects" />
         <module name="FP-07-Streams-05-Infinite-Streams" />
         <module name="FP-05-Functional-API-Design-Currying" />
@@ -59,68 +61,13 @@
         <module name="FP-01-Built-In-FI-BinaryOperator" />
         <module name="FP-11-Data-Structures-Functional-Way-03-Tree" />
         <module name="FP-07-Streams-05-Bounded-Streams" />
-        <module name="FP-09-Collectors-02-Cascading-Collectors" />
-        <module name="FP-06-Design-Patterns-Builder" />
         <module name="FP-05-Funcitonal-API-Design-Tail-Call-Optimization" />
+        <module name="FP-06-Design-Patterns-Builder" />
+        <module name="FP-09-Collectors-02-Cascading-Collectors" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FP-00-Imperative-vs-Declarative" target="1.8" />
-      <module name="FP-00-Lambda-Syntax" target="1.8" />
-      <module name="FP-00-Lambda-Syntax (1)" target="1.8" />
-      <module name="FP-01-Built-In-FI-BiFunction" target="1.8" />
-      <module name="FP-01-Built-In-FI-BinaryOperator" target="1.8" />
-      <module name="FP-01-Built-In-FI-composition.Function" target="1.8" />
-      <module name="FP-01-Built-In-FI-Consumer" target="1.8" />
-      <module name="FP-01-Built-In-FI-Supplier" target="1.8" />
-      <module name="FP-01-Built-In-FI-UnaryOperator" target="9" />
-      <module name="FP-01-Comparator-composition.Function" target="1.8" />
-      <module name="FP-01-Functional-Concepts-Pure-Functions-No-Side-Effects" target="1.8" />
-      <module name="FP-02-Method-Reference" target="1.8" />
-      <module name="FP-03-Optional" target="1.8" />
-      <module name="FP-03-Optional-Operations" target="9" />
-      <module name="FP-04-Functional-Concepts-Higher-Order-Functions" target="1.8" />
-      <module name="FP-04-Functional-Concepts-Referencial-Transparency" target="1.8" />
-      <module name="FP-05-Funcitonal-API-Design-Tail-Call-Optimization" target="1.8" />
-      <module name="FP-05-Functional-API-Design-Closures" target="1.8" />
-      <module name="FP-05-Functional-API-Design-composition.Function-Chaining" target="1.8" />
-      <module name="FP-05-Functional-API-Design-Currying" target="1.8" />
-      <module name="FP-05-Functional-API-Design-Functional-Composition" target="1.8" />
-      <module name="FP-05-Functional-API-Design-Lazy-Evaluation" target="1.8" />
-      <module name="FP-06-Design-Patterns-Builder" target="1.8" />
-      <module name="FP-06-Design-Patterns-Command" target="1.8" />
-      <module name="FP-06-Design-Patterns-Decorator" target="1.8" />
-      <module name="FP-06-Design-Patterns-Factory" target="1.8" />
-      <module name="FP-06-Design-Patterns-Fluent-Interfaces" target="1.8" />
-      <module name="FP-06-Design-Patterns-Iterator" target="1.8" />
-      <module name="FP-06-Design-Patterns-Strategy" target="1.8" />
-      <module name="FP-07-Streams-03-Filter" target="1.8" />
-      <module name="FP-07-Streams-03-Map" target="1.8" />
-      <module name="FP-07-Streams-03-Reduce" target="1.8" />
-      <module name="FP-07-Streams-03-Streams-are-Lazy" target="1.8" />
-      <module name="FP-07-Streams-04-Numeric-Streams" target="1.8" />
-      <module name="FP-07-Streams-04-Numeric-Streams-Methods" target="1.8" />
-      <module name="FP-07-Streams-05-Bounded-Streams" target="1.8" />
-      <module name="FP-07-Streams-05-Infinite-Streams" target="1.8" />
-      <module name="FP-07-Streams-07-Fork-Join-Pool" target="1.8" />
-      <module name="FP-07-Streams-07-Parallel-Streams" target="1.8" />
-      <module name="FP-07-Streams-07-Stateless-vs-Stateful-Operations" target="1.8" />
-      <module name="FP-07-Streams-FlatMap" target="1.8" />
-      <module name="FP-07-Streams-Intro" target="1.8" />
-      <module name="FP-07-Streams-Strream-Pipeline" target="1.8" />
-      <module name="FP-08-Spliterator-02-Custom-Spliterator" target="1.8" />
-      <module name="FP-08-Spliterator-Spliteraor-Characteristics" target="1.8" />
-      <module name="FP-09-Collectors-01-Terminal-Analogous-Collectors-02-TreeSet-Map-PartitionBy-GroupBy" target="11" />
-      <module name="FP-09-Collectors-02-Cascading-Collectors" target="11" />
-      <module name="FP-09-Collectors-03-Custom-Collectors" target="11" />
-      <module name="Fp-09-Collectors-Terminal-Analogue-Collectors" target="11" />
-      <module name="FP-10-Collections-Functional-Way-01-List" target="11" />
-      <module name="FP-10-Collections-Functional-Way-02-Set" target="11" />
-      <module name="FP-10-Collections-Functional-Way-03-Map" target="11" />
-      <module name="FP-11-Data-Structures-Functional-Way-01-List" target="11" />
-      <module name="FP-11-Data-Structures-Functional-Way-02-Queue" target="11" />
-      <module name="FP-11-Data-Structures-Functional-Way-03-Tree" target="11" />
-      <module name="FP-11-Data-Structures-Functional-Way-04-Map" target="11" />
+      <module name="JavaPractice2" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
