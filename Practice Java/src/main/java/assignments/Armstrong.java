@@ -10,7 +10,7 @@ public class Armstrong {
         armstrong(407);
         armstrong(408);
     }
-
+//armstrong eto kogda v nomere 1 5 3 summa otdelno nomerov ravna samoj cifre. skazhem 153 eto 1 v kube. + 5 v kube + 3 v kube et 1 +125 + 27 = 153
 
     public static void armstrong(int number ){
         int sum = 0;
