@@ -24,6 +24,8 @@ public class intReverse {
 
     public static int reverseIntWithForLop(int num) {
         int reversed = 0;
+
+//        In this particular code, the initialization is empty (;). This means that there is no specific action or variable initialization needed before the loop starts.
         for (; num != 0; num = num / 10) {
             int temp = num % 10;
             reversed = reversed * 10 + temp;

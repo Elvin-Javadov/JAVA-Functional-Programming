@@ -22,7 +22,7 @@ public class countWithMap {
             if (map.containsKey(arr[i])) {
                 map.put(arr[i], map.get(arr[i]) + 1);
             } else {
-//                esle we just add the value from array and assign number 1;
+//                else we just add the value from array and assign number 1;
                 map.put(arr[i], 1);
             }
         }

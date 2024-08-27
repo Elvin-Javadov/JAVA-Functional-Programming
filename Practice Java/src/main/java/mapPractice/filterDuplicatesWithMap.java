@@ -17,7 +17,7 @@ public class filterDuplicatesWithMap {
 
             if (map.get(arr[i]) == null) {
 //                so its mean we r taking spot of map index i for example 1. and adding true. next time when
-//                it check key and sees 1 it false and moves to next
+//                it checks key and sees 1 it false and moves to next
                 System.out.print(arr[i] + " ");
                 map.put(arr[i], true);
 

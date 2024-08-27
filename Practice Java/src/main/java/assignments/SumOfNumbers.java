@@ -5,12 +5,22 @@ public class SumOfNumbers {
 
         int number = 12643;
         int sum = 0;
+        sumNum(number);
 
         while (number > 0){
             sum = sum + number % 10;
             number = number / 10;
         }
         System.out.println(sum);
+    }
 
+    public static void sumNum(int number){
+        int sum = 0;
+
+        while (number > 0){
+            sum=sum + number % 10;
+            number = number / 10;
+        }
+        System.out.println(sum);
     }
 }

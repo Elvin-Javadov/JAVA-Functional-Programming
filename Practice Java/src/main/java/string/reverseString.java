@@ -12,7 +12,7 @@ public class reverseString {
 
     public static String reverseWithSimpleString(String str) {
         char[] ch = str.toCharArray();
-        for (int i = ch.length - 1; i >= 0; i--) {
+        for (int i = ch.length-1; i >= 0; i--) {
             str = str + ch[i];
         }
         return str;

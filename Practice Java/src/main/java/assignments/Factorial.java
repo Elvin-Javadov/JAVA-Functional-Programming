@@ -10,7 +10,7 @@ public class Factorial {
 
     public static int findFactorial(int number) {
         int sum = 1;
-//        sum ne dolzhen bit0 na 0 umnozhat nelza
+//        sum ne dolzhen bit 0 na 0 umnozhat nelza
         if (number <= 0) {
             System.out.println("Factorial of " + number + " is " + sum);
             return sum;
